@@ -6,6 +6,23 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Blockchain Explorer",
+    cardImage: "assets/images/project-page/block_chain.jpg",
+    description: "It is a responsive coffee break blog website",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://block-chain-explorer.vercel.app/",
+    Githublink: "https://github.com/ritik7739/BlockChain-Explorer",
+  },
+  {
+    title: "Yoga-Web App",
+    cardImage: "assets/images/project-page/block_chain.jpg",
+    description: "Allow the user to specify different notification methods (e.g. email, SMS, push notification) for each which Show all details about the transaction ( logs , internal Transactions etc. )",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://yoga-app-assigment.onrender.com/",
+    Githublink: "https://github.com/ritik7739/Yoga-Web",
+  },
+  
+  {
     title: "Coffee_break_website",
     cardImage: "assets/images/project-page/coffee_break.jpg",
     description: "It is a responsive coffee break blog website",
