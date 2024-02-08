@@ -8,13 +8,14 @@ const exp = [
     title: "Martian Internship Program",
     cardImage: "assets/images/experience-page/Persistent_Systems.png",
     place: " Persistent",
-    time: "(June, 2023 - present)",
+    time: "(June, 2023 - August, 2023)",
+    desp: "<li>Equipped with industry-aligned knowledge through an internship program.</li><li>focused on tools such as DSA, CN, Core Java, OS, and RDBMS</li>",
   },
   {
     title: "Technical Writer Intern",
     cardImage: "assets/images/experience-page/gfglogo.png",
     place: "Geeks For Geeks",
-    time: "(May,2023- present)",
+    time: "(May,2023- December, 2023)",
     desp: "<li>As a Technical Writer Intern, I have published content on the website, specifically focusing on Data Structures and Algorithms (DSA).</li><li>My published content demonstrates my proficiency in explaining complex DSA concepts clearly and concisely.</li><li>I have utilized my strong research and analytical skills to ensure the accuracy and comprehensiveness of the content.</li>",
   },
   {
