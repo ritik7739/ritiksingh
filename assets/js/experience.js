@@ -82,12 +82,14 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/1.jpg",
     description:
       "Contributor in GSSoC: Collaborate, code, learn, network, and enhance open-source skills.",
+    href : "https://drive.google.com/file/d/1pGoh6VyD5akG4cKvURvDlsLUeBvlkUu5/view?usp=drivesdk",
   },
   {
     title: "Social Summer Of Code 2022",
     cardImage: "assets/images/experience-page/ssoc.png",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+     href : "https://certificate.givemycertificate.com/c/fce8d680-b834-4cf3-9b26-7d5eff8e2771",
   },
 ];
 
