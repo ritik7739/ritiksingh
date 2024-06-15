@@ -84,7 +84,7 @@ const volunteershipcards = [
       "Contributor in GSSoC: Collaborate, code, learn, network, and enhance open-source skills.",
   },
   {
-    title: "Social Summer Of Code",
+    title: "Social Summer Of Code 2022",
     cardImage: "assets/images/experience-page/ssoc.png",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
@@ -111,6 +111,31 @@ const showCards = () => {
 document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
+const hackathonsection = document.querySelector(".hackathon-section");
+const mentor = [
+  {
+    title: "Flipkart GRiD 5.0",
+    subtitle: "Software Development",
+    image: "assets/images/experience-page/flipkart_5.0.jpeg",
+    desp: "GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.",
+    href: "https://unstop.com/certificate-preview/27a2cf2b-8e18-476a-b755-601765e92506",
+  },
+ {
+    title: "Xiaomi Ode2Code 3.0",
+    subtitle: "Coding competition",
+    image: "assets/images/experience-page/Xiaomi_3.0.jpeg",
+    desp: "Ode2Code 3.0 is an electrifying coding competition that unites aspiring programmers from all over the country. Through a sequence of demanding rounds, participants display their coding expertise and problem-solving acumen. The event includes an intriguing online quiz and the presentation of innovative coding projects, promoting a culture of healthy competition and continuous learning.",
+    href: "https://unstop.com/certificate-preview/0df693c4-24b7-4ca4-bd0a-90a8c107f377",
+  },
+
+ {
+    title: "Flipkart GRiD 4.0",
+    subtitle: "Software Development",
+    image: "assets/images/experience-page/flipkart_4.0.jpeg",
+    desp: "GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.",
+    href: "https://unstop.com/certificate-preview/27a2cf2b-8e18-476a-b755-601765e92506",
+  },
+]
 const showCards3 = () => {
   let output = "";
   mentor.forEach(
