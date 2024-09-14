@@ -6,6 +6,22 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Zerodha-Clone",
+    cardImage: "assets/images/project-page/ss.png",
+    description: "The Zerodha Clone is a frontend project that replicates the user interface and experience of the popular Indian stockbroking platform, Zerodha. The project is built using React.js, with a focus on creating a clean, responsive, and intuitive design that mirrors Zerodha's platform.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://wanderlust-cxo9.onrender.com/listings",
+    Githublink: "https://github.com/ritik7739/Wanderlust",
+  },
+  {
+    title: "WanderLust (Airbnb Clone)",
+    cardImage: "assets/images/project-page/zerodha.png",
+    description: "Wanderlust is a travel-focused web application inspired by the Airbnb website. It allows users to create and share listings of travel destinations, as well as review and rate these destinations. The app is built with Node.js, Express, MongoDB, and EJS, utilizing cloud storage for image uploads and implementing user authentication with Passport.js.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://zerodha-clone-ht6j.onrender.com/",
+    Githublink: "https://github.com/ritik7739/Zerodha-Clone",
+  },
+  {
     title: "Shop_it",
     cardImage: "assets/images/project-page/shop_it.png",
     description: "It is a Cart web Application where user can add product to cart and can also remove product from cart",
