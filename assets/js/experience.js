@@ -14,7 +14,7 @@ const exp = [
   {
     title: "Martian Internship Program",
     cardImage: "assets/images/experience-page/Persistent_Systems.png",
-    place: " Persistent",
+    place: " Persistent Systems",
     time: "(June, 2023 - August, 2023)",
     desp: "<li>Equipped with industry-aligned knowledge through an internship program.</li><li>focused on tools such as DSA, CN, Core Java, OS, and RDBMS</li>",
   },
