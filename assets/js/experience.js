@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Contributor",
+    cardImage: "assets/images/experience-page/gssoc.png",
+    place: "Girl Script Summer of Code",
+    time: "(May, 2024 - August, 2024)",
+    desp: "<li> Contributed to GSSOC by successfully merging 2 PRs, demonstrating expertise in MERN stack and GitHub collaboration.</li><li> Actively engaged in open-source projects, gaining hands-on experience with AWS for cloud services integration.</li>",
+  },
+  {
     title: "Martian Internship Program",
     cardImage: "assets/images/experience-page/Persistent_Systems.png",
     place: " Persistent",
